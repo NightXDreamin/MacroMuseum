@@ -35,6 +35,9 @@
 # Miscellaneous Generated Files #
 #################################
 # ADD AS NEED BE
-Content/HistoricalMuseum/Levels/L_Showcase_BuiltData.uasset
-Content/HistoricalMuseum/Textures
-Content\Museum\Textures
+/Content/HistoricalMuseum/Levels/L_Showcase_BuiltData.uasset
+/Content/HistoricalMuseum/Textures
+/Content\Museum\Textures
+/Content/Museum/Textures
+/HistoricalMuseum/Textures
+HistoricalMuseum/Levels/L_Showcase_BuiltData.uasset
